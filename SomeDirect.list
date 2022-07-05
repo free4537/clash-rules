@@ -1,0 +1,10 @@
+# Google Play Store 内下载应用时相关域名
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+# Oracle VPS 测速站
+DOMAIN-SUFFIX,oracle-speedtest.com
+
+# Socloud 直连地址
+DOMAIN-SUFFIX,cloudso.org
+DOMAIN-SUFFIX,cdnso.net
