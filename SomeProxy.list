@@ -1,6 +1,3 @@
 # 一些 BT 客户端官网
 DOMAIN-SUFFIX,utorrent.com
 DOMAIN-SUFFIX,qbittorrent.org
-
-# GitHub
-DOMAIN-SUFFIX,raw.githubusercontent.com
