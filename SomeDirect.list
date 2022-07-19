@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,oracle-speedtest.com
 # Socloud 直连地址
 DOMAIN-SUFFIX,cloudso.org
 DOMAIN-SUFFIX,cdnso.net
+
+# 哔嘀影视
+DOMAIN-SUFFIX,btbdys.com
