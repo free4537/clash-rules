@@ -1,0 +1,12 @@
+# 一些直连
+ruleset=🎯 一些直连,https://raw.githubusercontent.com/free4537/clash-rules/main/SomeDirect.list
+# 一些代理
+ruleset=🚀 一些代理,https://raw.githubusercontent.com/free4537/clash-rules/main/SomeProxy.list
+# 一些WARP
+ruleset=☁️ 一些WARP,https://raw.githubusercontent.com/free4537/clash-rules/main/SomeWARP.list
+
+custom_proxy_group=🎯 一些直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
+custom_proxy_group=🚀 一些代理`select`[]🚀 节点选择`[]♻️ 自动选择`[]🎯 全球直连`.*
+custom_proxy_group=☁️ 一些WARP`select`[]☁️ WARP节点`[]🚀 节点选择`[]♻️ 自动选择`.*
+
+custom_proxy_group=☁️ WARP节点`url-test`(warp)`http://www.gstatic.com/generate_204`300,,50
