@@ -1,0 +1,8 @@
+# 以下域名走 WARP 节点
+
+# Evernote
+DOMAIN-SUFFIX,evernote.com
+
+# Porn
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,fc2.com
