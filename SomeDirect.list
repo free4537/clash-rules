@@ -1,4 +1,4 @@
-# Google Play Store 内下载应用时相关域名
+# Google Play 内下载应用时相关域名
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
@@ -10,4 +10,4 @@ DOMAIN-SUFFIX,cloudso.org
 DOMAIN-SUFFIX,cdnso.net
 
 # 哔嘀影视
-DOMAIN-SUFFIX,52bdys.com
+DOMAIN-SUFFIX,bdys01.com
