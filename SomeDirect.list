@@ -9,5 +9,8 @@ DOMAIN-SUFFIX,oracle-speedtest.com
 DOMAIN-SUFFIX,cloudso.org
 DOMAIN-SUFFIX,cdnso.net
 
+# 一些影视站
 # 哔嘀影视
 DOMAIN-SUFFIX,bdys01.com
+# LVBVIO
+DOMAIN-SUFFIX,libvio.me
