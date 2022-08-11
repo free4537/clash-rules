@@ -2,14 +2,17 @@
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
-# Oracle VPS 测速站
-DOMAIN-SUFFIX,oracle-speedtest.com
+# 一些影视站
+DOMAIN-SUFFIX,bdys01.com
+DOMAIN-SUFFIX,libvio.me
+DOMAIN-SUFFIX,voflix.com
 
 # Socloud 直连地址
 DOMAIN-SUFFIX,cloudso.org
 DOMAIN-SUFFIX,cdnso.net
 
-# 一些影视站
-DOMAIN-SUFFIX,bdys01.com
-DOMAIN-SUFFIX,libvio.me
-DOMAIN-SUFFIX,voflix.com
+# M-Team
+DOMAIN-SUFFIX,tracker.m-team.cc
+
+# Oracle VPS 测速站
+DOMAIN-SUFFIX,oracle-speedtest.com
