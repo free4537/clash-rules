@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,cdnso.net
 
 # M-Team
 DOMAIN-SUFFIX,tracker.m-team.cc
+# HDTime
+DOMAIN-SUFFIX,tracker.hdtime.org
 
 # Oracle VPS 测速站
 DOMAIN-SUFFIX,oracle-speedtest.com
