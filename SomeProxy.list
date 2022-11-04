@@ -3,12 +3,10 @@ DOMAIN-KEYWORD,torrent
 
 # qBittorrent
 ;DOMAIN-SUFFIX,qbittorrent.org
-
 # BT4G
 ;DOMAIN-SUFFIX,downloadtorrentfile.com
-
 # Bitsearch
-DOMAIN-SUFFIX,bitsearch.to
+;DOMAIN-SUFFIX,bitsearch.to
 
 # M-Team
 DOMAIN-SUFFIX,m-team.cc
