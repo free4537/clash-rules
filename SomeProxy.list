@@ -8,7 +8,7 @@ DOMAIN-KEYWORD,torrent
 ;DOMAIN-SUFFIX,downloadtorrentfile.com
 
 # Bitsearch
-;DOMAIN-SUFFIX,bitsearch.to
+DOMAIN-SUFFIX,bitsearch.to
 
 # M-Team
 DOMAIN-SUFFIX,m-team.cc
