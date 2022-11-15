@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,voflix.com
 
 # Socloud 直连地址
 DOMAIN-SUFFIX,michiso.com
-DOMAIN-SUFFIX,cdnso.net
 
 # M-Team
 DOMAIN-SUFFIX,tracker.m-team.cc
