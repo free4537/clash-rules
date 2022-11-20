@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
+# tracker 关键字
+DOMAIN-KEYWORD,tracker
+
 # 一些影视站
 DOMAIN-SUFFIX,52bdys.com
 DOMAIN-SUFFIX,libvio.me
