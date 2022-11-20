@@ -12,10 +12,5 @@ DOMAIN-SUFFIX,voflix.com
 # Socloud 直连地址
 DOMAIN-SUFFIX,michiso.com
 
-# M-Team
-DOMAIN-SUFFIX,tracker.m-team.cc
-# HDTime
-DOMAIN-SUFFIX,tracker.hdtime.org
-
 # Oracle VPS 测速站
 DOMAIN-SUFFIX,oracle-speedtest.com
