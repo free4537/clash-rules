@@ -7,6 +7,8 @@ DOMAIN-KEYWORD,tracker
 
 # 观众 PT
 DOMAIN-SUFFIX,t.audiences.me
+# 明教 PT
+DOMAIN-SUFFIX,hdpt.xyz
 
 # 一些影视站
 DOMAIN-SUFFIX,libvio.me
