@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # tracker 关键字
 DOMAIN-KEYWORD,tracker
 
+# 观众 PT
+DOMAIN-SUFFIX,t.audiences.me
+
 # 一些影视站
 DOMAIN-SUFFIX,libvio.me
 DOMAIN-SUFFIX,voflix.com
